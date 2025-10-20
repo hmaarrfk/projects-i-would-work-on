@@ -10,3 +10,8 @@ I'm keeping this repository as a list of projects and prompts for others to gain
 in some poster in the next coming years!
 
 ## How to get started
+
+- Start a new repository.
+- Start with a README with your goal and approach.
+- Open an Issue on this repository to start a discussion with me. Point me to your project!
+- Open specific issues on your own repository to discuss sub-tasks.
